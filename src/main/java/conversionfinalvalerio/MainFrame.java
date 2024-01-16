@@ -124,15 +124,15 @@ public class MainFrame extends javax.swing.JFrame {
     if ("EUR".equals(currency)) {
         rate = 0.92;
     } else if ("GBP".equals(currency)) {
-        rate = 0.73;
+        rate = 0.80;
     } else if ("JPY".equals(currency)) {
-        rate = 110.0;
+        rate = 146.89;
     } else if ("AUD".equals(currency)) {
-        rate = 1.34;
+        rate = 1.51;
     } else if ("CAD".equals(currency)) {
-        rate = 1.28;
+        rate = 1.35;
     } else if ("CHF".equals(currency)) {
-        rate = 0.92;
+        rate = 0.89;
     }
 
     return rate;
