@@ -122,7 +122,7 @@ public class MainFrame extends javax.swing.JFrame {
     double rate = 1.0;
 
     if ("EUR".equals(currency)) {
-        rate = 0.85;
+        rate = 0.92;
     } else if ("GBP".equals(currency)) {
         rate = 0.73;
     } else if ("JPY".equals(currency)) {
